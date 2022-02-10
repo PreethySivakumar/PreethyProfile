@@ -12,10 +12,13 @@
 }
 .heading{
     color:antiquewhite;
-    background-color:coral
+    background-color:rgb(228, 147, 117)
+}
+a{
+    text-decoration:none;
 }
 .FullTile{
-    height:3200px;
+    height:2900px;
     width:100%;
 }
 .TopTile{
@@ -45,7 +48,7 @@
     background-color:white;
 }
 .BottomTile{
-    height:2500px;
+    height:2200px;
     width:90%;
     margin-top:2%;
     margin-left:5%;
@@ -79,10 +82,18 @@
 .workbox{
     height:500px;
     margin-top:8%;
+    margin-left:4%;
+}
+.project{
+    margin-left:4%;
+    display:inline-block;
+}
+.btn-dark{
+    margin-top:1.5%;
 }
 .locBox{
     height:300px;
-    margin-top:35%;
+   
     background-color:transparent;
 }
 .map{
