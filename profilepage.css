@@ -12,6 +12,7 @@
 }
 .heading{
     color:antiquewhite;
+    background-color:coral
 }
 .FullTile{
     height:3200px;
@@ -50,7 +51,7 @@
     margin-left:5%;
 }
 .edubox{
-    width:80%;
+    width:88%;
     margin-left:10%;
     margin-top:3%;
     display: inline-block;
@@ -82,7 +83,23 @@
 .locBox{
     height:300px;
     margin-top:35%;
+    background-color:transparent;
+}
+.map{
+    margin-left:2%;
+    float:left;
+}
+.formSpace{
+    margin-left:5%;
+    float:left;
+    color:white;
+    background-color:transparent;
 }
 #footerword{
     color:bisque;
 }
+
+
+
+  
+  
