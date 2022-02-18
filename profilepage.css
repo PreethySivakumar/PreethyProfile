@@ -88,6 +88,9 @@ a{
     margin-left:4%;
     display:inline-block;
 }
+.project:hover{
+    transform:scale(1.1);
+ }
 .btn-dark{
     margin-top:1.5%;
 }
